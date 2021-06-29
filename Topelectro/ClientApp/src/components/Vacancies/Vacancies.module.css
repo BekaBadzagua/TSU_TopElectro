@@ -1,0 +1,50 @@
+.Vacancies {
+    background-color: #fff;
+}
+
+.Vacancy {
+    width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgb(246, 241, 213);
+}
+
+.FixedINfo, .DetailedInfo {
+    width: 60%;
+    margin: auto;
+}
+
+.DetailedInfo {
+    margin-top: 30px;
+}
+
+.FixedINfo h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.FixedINfo table {
+    margin: 30px auto 20px auto;
+}
+
+.FixedINfo td {
+    vertical-align: middle;
+}
+
+.FixedINfo tr td:first-child {
+    padding-right: 25px;
+    font-weight: bold;
+    font-family: "BPG Nino Elite Caps", sans-serif;
+}
+
+.FixedINfo tr td:last-child {
+    font-weight: 100;
+    padding-left: 25px;
+}
+
+.NoVacFound {
+    padding: 100px 0;
+    text-align: center;
+    font-family: "BPG Nino Elite Exp", sans-serif;
+}

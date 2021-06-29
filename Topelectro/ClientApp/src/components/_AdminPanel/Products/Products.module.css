@@ -1,0 +1,33 @@
+
+.TableWrapper{
+    min-width: 780px;
+}
+.TableWrapper th,.TableWrapper td{
+    text-align: center;
+}
+.TableImage img{
+    max-width: 200px;
+}
+.TableImage{
+    max-width: 200px;
+}
+
+.DropDownMenu span{
+    cursor: pointer;
+}
+.DropDownMenu span:hover{
+    background-color: #fd9568b3;
+}
+
+.TotalP{
+    text-align: right;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+.Loader{
+    display: inline-block;
+    margin-left: calc(50% - 25px);
+    margin-bottom: 30px;
+}

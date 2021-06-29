@@ -1,0 +1,88 @@
+.SectionHeader {
+	text-align: left;
+	margin: 0 50px 50px 50px;
+	color: #004606;
+	font-weight: bold;
+	text-transform: uppercase
+}
+
+.SectionHeader h1 {
+	display: inline-block;
+	width: calc(100% - 200px);
+	font-weight: 700;
+	vertical-align: middle;
+}
+
+.SectionHeader button {
+	font-family: "BPG Nino Elite Exp", sans-serif;
+	color: #004606;
+}
+
+.SectionHeader button:hover {
+	color: #fff
+}
+
+.ImageHeading {
+	position: relative;
+}
+
+.ImageHeading img {
+	width: 100%;
+	max-height: 300px;
+}
+
+.ImageHeading div {
+	position: absolute;
+	top: calc(50% - 36px);
+	left: 0;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+}
+
+.ImageHeading h1 {
+	font-size: 64px;
+}
+
+.ImageHeading a {
+	color: #eb7d00;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.ImageHeading a:hover {
+	color: orangered;
+}
+
+.ImageHeading p {
+	font-size: 20px;
+}
+
+.ImageHeading span {
+	padding: 0 10px;
+}
+
+@media only screen and (max-width: 870px) {
+	.ImageHeading h1 {
+		font-size: 30px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.SectionHeader {
+		text-align: center;
+		word-break: break-all;
+	}
+	.SectionHeader h1 {
+		display: block;
+		width: 100%;
+		margin-bottom: 5px;
+	}
+}
+
+@media only screen and (max-width: 440px) {
+	.ImageHeading {
+		display: none;
+	}
+}

@@ -1,0 +1,39 @@
+.Sidebar{
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 100%;
+    background-color: #17181B;
+    position: fixed;
+    box-sizing: border-box;
+}
+.ImgWrapper{
+    position: relative;
+    height: 200px;
+}
+.ImgWrapper img{
+    margin: 20px 10px 0 10px;
+    width: 280px;
+    height: 125px;
+}
+.ImgWrapper h2{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 9px 0;
+    margin:0;
+    color: #fff;
+    background-color: rgba(255, 68, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+@media (max-width: 1200px) {
+    .Sidebar{
+        display: none;
+    }    
+}

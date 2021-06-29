@@ -1,0 +1,288 @@
+{
+    "common": {
+        "mainAddress": "Tbilisi, St. Agladze N 11а, Pavilion 12, Shop 10",
+        "phone": "Phone",
+        "mail": "Email",
+        "name": "First name",
+        "lastname": "Last name",
+        "email": "Email",
+        "address": "Address",
+        "menu": "Menu"
+    },
+    "navigation": {
+        "home": "Home",
+        "product": "Products",
+        "gallery": "Gallery",
+        "vacancies": "Vacancies",
+        "about": "About Us",
+        "contact": "Contact Us",
+        "copyright": "2021 © Application is created by Beka Badzagua."
+    },
+    "footer": {
+        "about": "About Us",
+        "description": ",,TOP ELEKTRO’’ was created in January of 2016 year. ,,TOP ELEKTRO’’ specialises in distribution of high and low voltage electrical installation  products on the Georgian market",
+        "navigation": "Navigation",
+        "contactUs": "Contact Us"
+    },
+    "home": {
+        "slides": {
+            "1": {
+                "bigText": "Wide selection of products! More than 1500 Electric devices",
+                "smallText": "See the most requested categories"
+            },
+            "2": {
+                "bigText": "High quality, Reasonable prices, Satisfied customers"
+            },
+            "4": {
+                "bigText": "Learn more About Us",
+                "smallText": {
+                    "1": "TopElectro -",
+                    "2": "year in your Service!"
+                }
+            },
+            "button": {
+                "see": "See More"
+            }
+        },
+        "categories": {
+            "header": "Requested Categories",
+            "buttonText": "See More",
+            "1": {
+                "title": "Sockets and Switches",
+                "description": "Sockets and switches are used to connect household loads to AC power, control lighting networks, and connect communication devices to information networks."
+            },
+            "2": {
+                "title": "Distribution blocks",
+                "description": "Distribution blocks are used for branching wires and cables, protecting them from moisture and mechanical damage to the junction of wires and cables. They are designed for mounting on walls, ceilings."
+            },
+            "3": {
+                "title": "Sockets and Switches (Retro)",
+                "description": "Sockets and switches (Retro) are made of porcelain. they are used to connect household loads to AC power and control lighting networks."
+            },
+            "4": {
+                "title": "Circuit Breakers",
+                "description": "The main purpose of the circuit breakers is to conduct current in normal mode, protect short-circuit currents and overload currents, promptly turn on and off electrical circuits."
+            }
+        },
+        "services": {
+            "header": "Why TopElectro?",
+            "1": {
+                "title": "On-site delivery service",
+                "desc": "We offer on-site delivery service throughout Georgia."
+            },
+            "2": {
+                "title": "Warranty on almost any product",
+                "desc": "Almost all products come with a long warranty"
+            },
+            "3": {
+                "title": "Electricity Service",
+                "desc": "If you buy the product from us, we will help you to contact good Elecritians."
+            },
+            "4": {
+                "title": "A Variety of Choices",
+                "desc": "An ever-growing assortment that currently exceeds 1,500 names."
+            },
+            "5": {
+                "title": "High Quality",
+                "desc": "TDM product has been dominating the market of Russia or other countries for many years."
+            },
+            "6": {
+                "title": "Low Pprices",
+                "desc": "Low prices in the Georgian market, both for shops and consumers."
+            }
+        },
+        "products": {
+            "header": "New Products",
+            "btnText": "See More"
+        },
+        "locations": {
+            "header": "Our Branches",
+            "1": {
+                "address": "Tbilisi, St. Agladze N 11а, Pavilion 12, Shop 10",
+                "type": "Shop"
+            },
+            "2": {
+                "address": "Tbilisi, ELIAVA, MISAMARTI #26",
+                "type": "Main Office"
+            }
+        }
+    },
+    "vacancies": {
+        "heading": "Become a Member of Our Team",
+        "page": "Vacancies"
+    },
+    "aboutus": {
+        "heading": "About TopElectro",
+        "page": "About Us",
+        "aboutCompany": "About Company",
+        "description": ",,TOP ELEKTRO’’ was created in January of 2016 year. ,,TOP ELEKTRO’’ specialises in distribution of high and low voltage electrical installation  products on the Georgian market. We supply all construction hypermarkets like - Domino, Gorgia and more then 1000 Construction store across the country. TOP ELEKTRO is supplied by TDM ELECTRIC. With an assortment of 12,000 denominations. ,,TOP ELEKTRO’’ offers the highest quality electrical products of any type.Main Motto of ,,TOP ELEKTRO’’:",
+        "checkList": {
+            "1": "High Quality",
+            "2": "Low Prices",
+            "3": "Satisfied customers"
+        },
+        "ourTeam": "Our Team",
+        "creators": "Founders",
+        "managers": "Managers",
+        "Employees": "Employees",
+        "team": {
+            "1": {
+                "name": "Zaza Kvitia",
+                "role": "Founder"
+            },
+            "2": {
+                "name": "Tsaro Jikuri",
+                "role": "Founder"
+            },
+            "3": {
+                "name": "Lasha Badzagua",
+                "role": "Director"
+            },
+            "4": {
+                "name": "Alexander Antia",
+                "role": "Sales Manager"
+            },
+            "5": {
+                "name": "Vakho Devdariani",
+                "role": "Sales Manager"
+            },
+            "6": {
+                "name": "Bidzina Khosruashvili",
+                "role": "Sales Manager"
+            },
+            "7": {
+                "name": "Nukri Sichinava",
+                "role": "Storage Manager"
+            },
+            "8": {
+                "name": "Zura Firosmanashvili",
+                "role": "Storage Employee"
+            },
+            "9": {
+                "name": "Vaxo Kortxonjia",
+                "role": "Storage Employee"
+            }
+        }
+    },
+    "contact": {
+        "header": "Contact Us",
+        "page": "Contact Us",
+        "subject": "Subject",
+        "letter": "Letter",
+        "send": "Send",
+        "address1": "Tbilisi, ELIAVA, MISAMARTI #26",
+        "address2": "Tbilisi, ELIAVA, MISAMARTI #26",
+        "sent": "Message Sent!",
+        "failed": "Failed to send email, please email us directly on top.elektro@mail.ru"
+    },
+    "product": {
+        "product": "Product",
+        "price": "Price",
+        "color": "Color",
+        "material": "Material",
+        "categories": "Categories",
+        "sort": "Sort By",
+        "sortby": {
+            "new": "Newly added",
+            "priceasc": "Price - Increasing",
+            "pricedesc": "Price - Decreasing"
+        }
+    },
+    "categories": {
+        "subHeaders": {
+            "rozetebiDaChamrtvelebiShida": "Sockets and Switches (Internal)",
+            "rozetebiDaChamrtvelebiGare": "Sockets and Switches",
+            "moduluriAvtomaturiAmomrtvelebi": "Modular Low Voltage Equipment",
+            "industriuliAvtomaturiAmomrtvelebi": "Industrial Low Voltage Equipment",
+            "releebiDaTaimerebi": "Relays and Timers",
+            "ganatebisMowyobilobebi": "Lighting Devices",
+            "aqsesuarebiElectroKaradistvis": "Components for Electrical Panels",
+            "karadebiDaElectroSihtebi": "Cabinets and Switchboards",
+            "samontajoAqsesuarebi": "Mounting Iroducts",
+            "sazomiMowyobilobebi": "Measuring Instruments",
+            "ventilation": "Ventilation",
+            "sakabeloSaizolacioSistemebi": "Systems for Cable Layout",
+            "kabelebiDaGayvaniloba": "Cables and wiring"
+        },
+        "seriaLama": "Serie „Лама“",
+        "seriaTaimir": "Serie „Таймыр“",
+        "seriaLadoga": "Serie „Ладога“",
+        "seriaSelinger": "Serie „Селигер“",
+        "seriaVuoksa": "Serie „Вуокса“",
+        "seriaRetro": "Sockets and Switches „Болонь“ (retroceramics)",
+        "strongRosets": "Power Connectors",
+        "avtomaturiAmomrtveli": "Circuit Breakers",
+        "diferencialuriAmomrtveli": "Differential Switches",
+        "diferencialuriAmomrtveliUZO": "Differential Switches (УЗО)",
+        "kontaqtoriPuskateli": "Modular contactors (STARTERS)",
+        "moduluriGadamrveli": "Modular switch",
+        "dzravisDacva": "Motor protection circuit breaker",
+        "moduluriRozetiDinreikaze": "Modular sockets for DIN rail mounting",
+        "dzabvisDamweviTransformatoriDinreikaze": "Step-down transformers for mounting on a DIN rail",
+        "moduluriRubilnikiDinreikaze": " Modular switches for mounting on a DIN rail",
+        "avtomaturiAmomrtveliSeriaBA88": "Circuit breakers of the VA88 series",
+        "blokiSatadarigoChartvistvisBAVR": "Blocks for automatic input of reserve ВAVR",
+        "dzabvisAmomrtveliBNK": "Load break switches (knife switches) ВНК",
+        "martvisGilakebi": "Buttons, switches",
+        "kontaqtori": "Contactors, starters",
+        "tboRele": "Thermal relay",
+        "onOffGilaki": "Button posts",
+        "martvisPulti": " Telpher consoles ПКТ",
+        "dnobadiMcveli": "Circuit breakers ППНН и ПН-2",
+        "ganmacalkevebeliDamcaviFunqciit": "Switch-disconnectors ПВР & ШПВР",
+        "simdzlavrisShemzgudveli": "Power limiting relay",
+        "dzabvisKontroli": "Voltage monitoring relay",
+        "rozetuliTaimeri": "Socket timers",
+        "donisKontrolisRele": "Level control relay РКУ",
+        "analoguriReleYoveldgiuri": "Analog daily timers",
+        "relePromejutochnaia": "Intermediate relays",
+        "droisRele": "Time relay",
+        "temperaturisRele": "Temperature relay",
+        "electronuliTaimeri": "Electronic timers",
+        "lEDNaturebi": "LED Lamps",
+        "LEDProjectorebiP66": "LED Floodlights IP66",
+        "LEDSanatebiDownLight": "LED Lamps DownLight",
+        "LEDSanatebiIP66": "Linear luminaires",
+        "sanatebiIP54": "Light fixtures IP54",
+        "ezosQuchisGanateba": "Outdoor Lighting",
+        "Brebi": "Light fixtures",
+        "modzraobisDeteqtori": "Motion Sensor",
+        "fotoRele": "Photo relay",
+        "fanrebi": "Lanterns",
+        "aqsesuarebiVaznebi": "Accessories (cartridges)",
+        "dinreika": "DIN rails",
+        "gadamaertebeliSavarcxeli": "Connecting busbars (combs)",
+        "salnikebiPG": "Cable gland PG",
+        "salteebi": "Zero tires",
+        "gamanawilebeliBloki": "Distribution blocks",
+        "stabilizatorebi": "Stabilizers",
+        "litonisKaradebi": "Metal cabinets  IP31, IP66",
+        "plasmasisKaradebi": "Plastic cabinets IP31, IP54, IP65",
+        "gilzebiDaBunikebi": "Sleeves and Tips",
+        "bunikiVaznaIzolirebuli": "Tips and sleeves isolated",
+        "rezbianiDamcherebi": "Screw terminal clamps",
+        "shemaertebeliKlema": "Connecting terminals (analogue of WAGO)",
+        "termuliSaizolacioMilebi": "Heat-shrinkable tubes TUTng",
+        "neilonisXamutebi": "Clamps (nylon) in retail packaging",
+        "sadenisSamagriSkopebi": "Mounting brackets",
+        "dubelXamutebi": "Dowel clamps",
+        "izolentebi": "Insulating tape",
+        "weboebi": "Glue",
+        "ampermetri": "Ampermeter",
+        "voltmetri": "Voltmeter",
+        "cifruliEleqtroMowyobilobebi": "Digital electrical measuring instruments",
+        "instrumentebi": "tools",
+        "damagrdzeleblebi": "Extension cords and electrical installation products",
+        "zarebiDaElementebi": "Calls and batteries",
+        "reshotkebiDaVentilatorebi": "Ventilation and ventilation grilles ",
+        "lukebi": "Revision hatches (plastic, metal)",
+        "seriaEKO": "Series „ECO“",
+        "sipebi": "Fittings for self-supporting insulated wire",
+        "gamanawilebeliKolofebi": "Soldering boxes IP44,IP54,IP55",
+        "kabelArxebi": "Cable channels",
+        "gofreebi": "Corrugated PVC pipes",
+        "kabeli": "cables",
+        "nachrisKabelebi": "Fabric cables",
+        "internetisKabeli": "Internet cables"
+    }
+}

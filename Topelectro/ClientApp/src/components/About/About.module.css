@@ -1,0 +1,107 @@
+.About{
+	background-color: #f0fdfd;
+}
+
+.Info {
+	padding: 50px 0;
+	margin: 15px 0 50px 0;
+}
+
+.Info div {
+	display: inline-block;
+	vertical-align: top;
+	width: 40%;
+}
+.Info div:first-child {
+	margin-left: 10%;
+}
+.Info div:nth-child(2) {
+	padding-left: 5%;
+}
+
+
+.Info img {
+	width: 100%;
+	max-height: 460px;
+}
+
+.Info h1 {
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 24px;
+	padding-top: 10px;
+	color: #004606;
+}
+
+.Info p{
+	font-size: 16px;
+	margin: 16px 0;
+}
+
+.Info li{
+	font-size: 16px;
+}
+.Info svg{
+	padding-right: 10px;
+	color: orangered;
+} 
+
+
+.Team{
+	padding: 30px 0 80px 0;
+	text-align: center;
+}
+.Team h2{
+	font-size:31px;
+}
+.Team div{
+	display: inline-block;
+	width: 370px;
+	max-height: 400px;
+	padding: 0px 15px;
+	overflow: hidden;
+	text-align: center;
+}
+.Team img {
+	width: 170px;
+	height: 170px;
+	border-radius: 200px;
+}
+.Team h2{
+	margin-top:20px;
+	color: #004606;
+	font-weight: bold;
+}
+.Team h3{
+	margin:5px 0 10px 0;
+	font-size: 20px;
+	font-weight: bold;
+	color: #eb7d00;
+}
+.Team p{
+	color: #000;
+}
+.Team span{
+	vertical-align: middle;
+}
+.Quota {
+	padding:  40px 0;
+}
+.Quota h2{
+	text-align: center;
+}
+.Quota h4{
+	width: 500px;
+	margin: auto;
+}
+
+@media only screen and (max-width: 960px) {
+	.Info div {
+		width: 100%;
+		text-align: center
+	}
+	.Info div:first-child{
+		width: 60%;
+		margin-left: 20%;
+	}
+}

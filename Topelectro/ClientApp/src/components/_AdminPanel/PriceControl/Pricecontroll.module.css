@@ -1,0 +1,34 @@
+.Pricecontroll{
+    text-align: center;
+}
+.Pricecontroll h1{
+    margin-bottom: 20px;
+}
+.Pricecontroll label {
+    font-size: 20px;
+    font-family: "BPG Nino Elite Caps", sans-serif;
+    vertical-align: middle;
+    margin: 0;
+
+}
+.Pricecontroll select {
+    vertical-align: middle;
+    font-size: 20px;
+    margin: 0 10px;
+}
+.Pricecontroll input {
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.Pricecontroll label,.Pricecontroll select,.Pricecontroll input,.Pricecontroll button {
+    vertical-align: middle;
+    font-size: 20px;
+}
+.Pricecontroll label,.Pricecontroll input,.Pricecontroll button{
+    font-family: "BPG Nino Elite Caps", sans-serif;
+}
+
+.Pricecontroll button {
+    margin-top: 20px;
+}

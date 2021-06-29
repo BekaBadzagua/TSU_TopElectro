@@ -1,0 +1,144 @@
+.Main {
+    padding: 45px 6% 0 6%;
+}
+
+.TopBar {
+    position: absolute;
+    top: 0;
+    width: 88%;
+    height: 45px;
+    background-color: #fff;
+    color: #000;
+    text-align: right;
+    box-sizing: border-box;
+    z-index: 100;
+}
+
+.TopList {
+    margin: 0;
+}
+
+.TopList li {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 3px 0;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.TopList li:first-child {
+    border-radius: 10px;
+}
+
+.TopList li:first-child:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.TopList li:last-child {
+    display: none;
+    z-index: 200;
+}
+
+.TopNavigation_wrapper{
+    background: rgba(255, 60, 0, 0.9);
+    width: 100%;
+    max-width: 0;
+    height: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-bottom-left-radius: 900px;
+    z-index: 100;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.TopNavigation{
+    padding: 11px 10px 0 0;
+}
+.TopNavigation li{
+    vertical-align: middle;
+}
+.TopNavigation li:first-child{
+    cursor: pointer;
+}
+.TopNavigation a{   
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: "BPG Nino Elite Caps", sans-serif;
+    font-weight: bold;
+    color: rgb(0, 1, 47);
+    text-decoration: none;
+    transition: 0.2s;
+    color: #fff;
+    padding-right: 30px;
+}
+.TopNavigation svg{
+    vertical-align: middle;
+    margin-top: -5px;
+    margin-left: 10px;
+}
+
+
+.langList {
+    top: 40px !important;
+    text-align: center;
+    min-width: 121px;
+}
+
+.langList span {
+    padding: 5px 0 5px 10px;
+}
+
+.langList img {
+    margin: 0 0 0 10px;
+}
+
+.Rightidebar {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 5.5%;
+    height: 100vh;
+    text-align: center;
+}
+
+.Rightidebar ul {
+    position: relative;
+    top: calc(50% - 235px);
+    width: 100%;
+    padding: 0;
+}
+
+.Rightidebar li {
+    padding: 30px 0;
+    color: #000;
+}
+
+.Rightidebar a {
+    transition: 0.3s;
+}
+
+.Rightidebar a:hover {
+    color: orangered;
+}
+
+.Rightidebar svg {
+    font-size: 35px;
+}
+
+@media only screen and (max-width: 1200px) {
+    .Rightidebar {
+        display: none;
+    }
+    .Main {
+        padding: 45px 0 0 0;
+    }
+    .TopBar {
+        width: 100%;
+    }
+    .TopBar li:last-child {
+        display: inline-block;
+    }
+}

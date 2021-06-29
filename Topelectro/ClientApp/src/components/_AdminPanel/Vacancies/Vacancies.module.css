@@ -1,0 +1,13 @@
+.TableWrapper{
+    margin:30px 0;
+}
+.TableWrapper th,.TableWrapper td{
+    text-align: center;
+}
+
+.DropDownMenu span{
+    cursor: pointer;
+}
+.DropDownMenu span:hover{
+    background-color: #fd9568b3;
+}

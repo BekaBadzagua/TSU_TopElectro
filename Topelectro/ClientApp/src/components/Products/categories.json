@@ -1,0 +1,402 @@
+{
+    "CategoryGroups": [
+        {
+            "name": "rozetebiDaChamrtvelebiShida",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "სერია „Лама“",
+                    "descriptor": "seriaLama"
+                },
+                {
+                    "name": "სერია „Таймыр“",
+                    "descriptor": "seriaTaimir"
+                }
+            ]
+        },
+        {
+            "name": "rozetebiDaChamrtvelebiGare",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "სერია „Ладога“",
+                    "descriptor": "seriaLadoga"
+                },
+                {
+                    "name": "სერია „Селигер“",
+                    "descriptor": "seriaSelinger"
+                },
+                {
+                    "name": "სერია „Вуокса“",
+                    "descriptor": "seriaVuoksa"
+                },
+                {
+                    "name": "სერია „Retro“",
+                    "descriptor": "seriaRetro"
+                }
+            ]
+        },
+        {
+            "name": "ძალოვანი როზეტები",
+            "descriptor": "strongRosets"
+        },
+        {
+            "name": "moduluriAvtomaturiAmomrtvelebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "ავტომატური ამომრთველი",
+                    "descriptor": "avtomaturiAmomrtveli"
+                },
+                {
+                    "name": "დიფერენციალური ამომრთვლი",
+                    "descriptor": "diferencialuriAmomrtveli"
+                },
+                {
+                    "name": "დიფერენციალური ამომრთველი (УЗО)",
+                    "descriptor": "diferencialuriAmomrtveliUZO"
+                },
+                {
+                    "name": "მოდულური კონტაქტორი (ПУСКАТЕЛИ)",
+                    "descriptor": "kontaqtoriPuskateli"
+                },
+                {
+                    "name": "მოდულური გადამრთველი",
+                    "descriptor": "moduluriGadamrveli"
+                },
+                {
+                    "name": "ძრავის დაცვა",
+                    "descriptor": "dzravisDacva"
+                },
+                {
+                    "name": "მოდულური როზეტი დინრეიკაზე",
+                    "descriptor": "moduluriRozetiDinreikaze"
+                },
+                {
+                    "name": "ძაბვის დამწევი ტრანსფორმატორი დინრეიკაზე",
+                    "descriptor": "dzabvisDamweviTransformatoriDinreikaze"
+                },
+                {
+                    "name": "მოდულური რუბილნიკი დინრეიკაზე",
+                    "descriptor": "moduluriRubilnikiDinreikaze"
+                }
+            ]
+        },
+        {
+            "name": "industriuliAvtomaturiAmomrtvelebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "ავტომატური ამომრთველი - სერია “ВА88”",
+                    "descriptor": "avtomaturiAmomrtveliSeriaBA88"
+                },
+                {
+                    "name": "ავტომატური ბლოკი სათადარიგო ჩართვისთვის БАВР",
+                    "descriptor": "blokiSatadarigoChartvistvisBAVR"
+                },
+                {
+                    "name": "ძაბვის ამომრთველი ВНК",
+                    "descriptor": "dzabvisAmomrtveliBNK"
+                },
+                {
+                    "name": "მართვის ღილაკები",
+                    "descriptor": "martvisGilakebi"
+                },
+                {
+                    "name": "კონტაქტორი",
+                    "descriptor": "kontaqtori"
+                },
+                {
+                    "name": "თბოელექტრორელე",
+                    "descriptor": "tboRele"
+                },
+                {
+                    "name": "ჩართვა-გამორთვის ღილაკი (On/Off)",
+                    "descriptor": "onOffGilaki"
+                },
+                {
+                    "name": "მართვის პულტი",
+                    "descriptor": "martvisPulti"
+                },
+                {
+                    "name": "დნობადი მცველი",
+                    "descriptor": "dnobadiMcveli"
+                },
+                {
+                    "name": "განმაცალკევებელი დამცველი ფუნქციით",
+                    "descriptor": "ganmacalkevebeliDamcaviFunqciit"
+                }
+            ]
+        },
+        {
+            "name": "releebiDaTaimerebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "სიმძლავრის შემზღუდველი",
+                    "descriptor": "simdzlavrisShemzgudveli"
+                },
+                {
+                    "name": "რელე ძაბვის კონტროლი",
+                    "descriptor": "dzabvisKontroli"
+                },
+                {
+                    "name": "როზეტული ტაიმერი",
+                    "descriptor": "rozetuliTaimeri"
+                },
+                {
+                    "name": "დონის კონტროლის რელე",
+                    "descriptor": "donisKontrolisRele"
+                },
+                {
+                    "name": "ანალოგური რელე ყოველდღიური",
+                    "descriptor": "analoguriReleYoveldgiuri"
+                },
+                {
+                    "name": "შუალედური რელე",
+                    "descriptor": "relePromejutochnaia"
+                },
+                {
+                    "name": "დროის რელე",
+                    "descriptor": "droisRele"
+                },
+                {
+                    "name": "ტემპერატურის რელე",
+                    "descriptor": "temperaturisRele"
+                },
+                {
+                    "name": "ელექტრონული ტაიმერი",
+                    "descriptor": "electronuliTaimeri"
+                }
+            ]
+        },
+        {
+            "name": "ganatebisMowyobilobebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "LED ნათურები",
+                    "descriptor": "lEDNaturebi"
+                },
+                {
+                    "name": "LED პროჟექტორი IP66",
+                    "descriptor": "LEDProjectorebiP66"
+                },
+                {
+                    "name": "LED სანათები DownLight",
+                    "descriptor": "LEDSanatebiDownLight"
+                },
+                {
+                    "name": "LED სანათები IP66",
+                    "descriptor": "LEDSanatebiIP66"
+                },
+                {
+                    "name": "სანათები IP54",
+                    "descriptor": "sanatebiIP54"
+                },
+                {
+                    "name": "ეზოს/ქუჩის განათება",
+                    "descriptor": "ezosQuchisGanateba"
+                },
+                {
+                    "name": "ბრები",
+                    "descriptor": "Brebi"
+                },
+                {
+                    "name": "მოძრაობის დეტექტორი",
+                    "descriptor": "modzraobisDeteqtori"
+                },
+                {
+                    "name": "ფოტორელე",
+                    "descriptor": "fotoRele"
+                },
+                {
+                    "name": "ფანრები",
+                    "descriptor": "fanrebi"
+                },
+                {
+                    "name": "აქსესუარები (ვაზნები)",
+                    "descriptor": "aqsesuarebiVaznebi"
+                }
+            ]
+        },
+        {
+            "name": "aqsesuarebiElectroKaradistvis",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "დინრეიკა",
+                    "descriptor": "dinreika"
+                },
+                {
+                    "name": "გადამაერთებელი სავარცხელი",
+                    "descriptor": "gadamaertebeliSavarcxeli"
+                },
+                {
+                    "name": "სალნიკები (PG)",
+                    "descriptor": "salnikebiPG"
+                },
+                {
+                    "name": "სალტეები",
+                    "descriptor": "salteebi"
+                },
+                {
+                    "name": "გამანაწილებელი ბლოკი",
+                    "descriptor": "gamanawilebeliBloki"
+                }
+            ]
+        },
+        {
+            "name": "სტაბილიზატორები",
+            "descriptor": "stabilizatorebi"
+        },
+        {
+            "name": "kabelebiDaGayvaniloba",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "კაბელები",
+                    "descriptor": "kabeli"
+                },
+                {
+                    "name": "ნაჭრის კაბელები რეტრო",
+                    "descriptor": "nachrisKabelebi"
+                },
+                {
+                    "name": "ინტერნეტის კაბელი",
+                    "descriptor": "internetisKabeli"
+                }
+            ]
+        },
+        {
+            "name": "karadebiDaElectroSihtebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "ლითონის კარადები",
+                    "descriptor": "litonisKaradebi"
+                },
+                {
+                    "name": "პლასმასის კარადები",
+                    "descriptor": "plasmasisKaradebi"
+                }
+            ]
+        },
+        {
+            "name": "samontajoAqsesuarebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "გილზები და ბუნიკები",
+                    "descriptor": "gilzebiDaBunikebi"
+                },
+                {
+                    "name": "ბუნიკი-ვაზნა (იზოლირებული)",
+                    "descriptor": "bunikiVaznaIzolirebuli"
+                },
+                {
+                    "name": "რეზბიანი დამჭერები",
+                    "descriptor": "rezbianiDamcherebi"
+                },
+                {
+                    "name": "შემაერთებელი კლემა (WAGO)",
+                    "descriptor": "shemaertebeliKlema"
+                },
+                {
+                    "name": "თერმული საიზოლაციო მილები",
+                    "descriptor": "termuliSaizolacioMilebi"
+                },
+                {
+                    "name": "ნეილონის ხამუთები",
+                    "descriptor": "neilonisXamutebi"
+                },
+                {
+                    "name": "სადენის სამაგრები (სკოპები)",
+                    "descriptor": "sadenisSamagriSkopebi"
+                },
+                {
+                    "name": "დუბელ-ხამუთები",
+                    "descriptor": "dubelXamutebi"
+                },
+                {
+                    "name": "იზოლენტები",
+                    "descriptor": "izolentebi"
+                },
+                {
+                    "name": "წებოები",
+                    "descriptor": "weboebi"
+                }
+            ]
+        },
+        {
+            "name": "sazomiMowyobilobebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "ამპერმეტრი",
+                    "descriptor": "ampermetri"
+                },
+                {
+                    "name": "ვოლტმეტრი",
+                    "descriptor": "voltmetri"
+                },
+                {
+                    "name": "ციფრული ელექტრო  მოწყობილებები",
+                    "descriptor": "cifruliEleqtroMowyobilobebi"
+                }
+            ]
+        },
+        {
+            "name": "ინსტრუმენტები",
+            "descriptor": "instrumentebi"
+        },
+        {
+            "name": "დამაგრძელებლები",
+            "descriptor": "damagrdzeleblebi"
+        },
+        {
+            "name": "ზარები და ელემენტები",
+            "descriptor": "zarebiDaElementebi"
+        },
+        {
+            "name": "ventilation",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "რეშოტკები და ვენტილატორები",
+                    "descriptor": "reshotkebiDaVentilatorebi"
+                },
+                {
+                    "name": "ლუქები",
+                    "descriptor": "lukebi"
+                }
+            ]
+        },
+        {
+            "name": "სერია „ეკო“",
+            "descriptor": "seriaEKO"
+        },
+        {
+            "name": "sakabeloSaizolacioSistemebi",
+            "descriptor": null,
+            "subList": [
+                {
+                    "name": "სიპები",
+                    "descriptor": "sipebi"
+                },
+                {
+                    "name": "გამანაწილებელი კოლოფები",
+                    "descriptor": "gamanawilebeliKolofebi"
+                },
+                {
+                    "name": "კაბელ-არხები",
+                    "descriptor": "kabelArxebi"
+                },
+                {
+                    "name": "გოფრეები",
+                    "descriptor": "gofreebi"
+                }
+            ]
+        }
+    ]
+}

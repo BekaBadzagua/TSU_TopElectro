@@ -1,0 +1,37 @@
+.Nav ul{
+    padding: 0;
+    margin: 0;
+}
+.Nav li{
+    font-family: "BPG Nino Elite Caps", sans-serif;;
+    font-size: 22px;
+    list-style-type: none;
+    text-transform: uppercase;
+    border-bottom: 1px solid #adadad1a;
+    padding: 20px 0 20px 40px;
+
+    transition: border-bottom .3s, color .3s, background-color .3s;
+}
+
+.Nav li:hover{
+    background-color: rgba(72, 75, 85, 0.986);
+    color: #fff;
+    border-bottom: 1px solid rgba(173, 173, 173, 1);
+}
+.Nav a{
+    color: #777;
+    font-size: 12px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    transition: color .3s;
+}
+
+.Nav a.active,.Nav a:hover{
+    color:#fff;
+}
+.Nav svg{
+    padding-right: 10px;
+    vertical-align: middle;
+    font-size: 40px;
+    margin-top: -10px;
+}

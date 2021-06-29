@@ -1,0 +1,53 @@
+.AdminPanel{
+    position: relative;
+    width: 100%;
+    top:calc(50% - 153px);
+    background-color: grey;
+    text-align: center;
+}
+.Box{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+    padding-top: 80px;
+    background-color: orange;
+    display: inline-block;
+    border-radius: 20px;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+.Box:hover{
+    cursor: pointer;
+    background-color: orangered;
+    color: #fff;
+}
+.Box h1{
+    text-align: center;
+}
+.Box svg{
+    width: 100%;
+    font-size: 60px;
+}
+
+@media only screen and (max-width: 1350px) {
+    .Box{
+        width: 150px;
+        height: 150px;
+        margin: 25px;
+        padding-top: 30px;
+    }
+    .Box h1{
+        font-size: 23px;
+    }
+}
+@media only screen and (max-width: 765px) {
+    .AdminPanel{
+        top:calc(50% - 253px);
+    }
+}
+@media only screen and (max-width: 567px) {
+    .AdminPanel{
+        top:calc(50% - 353px);
+    }
+}

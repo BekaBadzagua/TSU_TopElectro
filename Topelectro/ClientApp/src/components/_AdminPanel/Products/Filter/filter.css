@@ -1,0 +1,29 @@
+.e-multi-select-wrapper {
+    background-color: #fff;
+    margin-top: 4px;
+}
+
+.product-admin-filter-toggle {
+    background-color: olivedrab;
+    color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+.product-admin-filter-toggle:hover {
+    cursor: pointer;
+    background-color: rgb(118, 155, 45);
+}
+
+.product-admin-filter-wrapper {
+    background-color: rgb(208, 221, 184);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.3s;
+}

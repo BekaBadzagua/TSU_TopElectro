@@ -1,0 +1,318 @@
+.Products {
+    padding: 10px 20px;
+    background-color: rgb(176, 176, 176);
+}
+
+.CategoryHeader {
+    text-align: center;
+    background-color: orangered;
+    color: #fff;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.SideMenu {
+    position: relative;
+    display: inline-block;
+    width: 380px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: "BPG Nino Elite Caps", sans-serif;
+    background-color: #e2e2e2;
+    color: #571801;
+    vertical-align: top;
+    transition: 0.3s;
+}
+
+.ListHeader {
+    font-weight: bold;
+    border-bottom: 2px solid #f54100;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+.MainIcon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: none !important;
+    margin-top: 8px;
+}
+
+.MainIcon:hover {
+    color: #000;
+    cursor: pointer;
+}
+
+.SideMenu ul {
+    padding: 0;
+}
+
+.SideMenu a {
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.SideMenu a li {
+    padding: 10px;
+}
+
+.SideMenu a:hover {
+    background-color: rgba(244, 65, 0, 0.5);
+}
+
+.SubListWrapper {
+    padding: 0 6px;
+}
+
+.SubList {
+    max-height: 25px;
+    margin: 10px 0;
+    overflow: hidden;
+    font-weight: bold;
+    transition: 1s;
+}
+
+/* .SubList:hover {
+    max-height: 2000px;
+    border-radius: 10px;
+    background-color: rgb(238, 237, 237);
+} */
+
+.SubListOpened {
+    max-height: 2000px;
+}
+
+.SubList li:first-child {
+    cursor: pointer;
+}
+
+.SubList li:first-child:active {
+    color: orangered;
+}
+.SubList li:first-child:hover {
+    color: orangered;
+}
+
+
+.SubListLink {
+    color: #9c2a00;
+}
+
+.SubList svg {
+    float: right;
+}
+
+.SubListOPEN {
+    max-height: 500px;
+}
+
+.SortBy {
+    height: 50px;
+    background-color: rgba(128, 128, 0, 0.3);
+}
+
+.SortBy>div {
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.SortBy label {
+    margin-right: 10px;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: "BPG Nino Elite Exp", sans-serif;
+}
+
+.SortBy select {
+    border: 1px solid olive;
+    font-family: "BPG Nino Elite Exp", sans-serif;
+}
+
+.Production {
+    display: inline-block;
+    width: calc(100% - 380px);
+    background-color: #fff;
+}
+
+.ProductsWrapper {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Product {
+    display: inline-block;
+    margin: 10px;
+    width: 250px;
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    background-color: #ececec;
+    /* background-color: rgba(255, 165, 0, 0.8); */
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.Product img {
+    width: 100%;
+}
+
+.Product h4 {
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.ProductName {
+    word-break: break-all;
+    letter-spacing: 4px;
+    font-family: "BPG Nino Elite Exp", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.itemPrice {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.Product h4:last-child {
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.InfoWrapper {
+    height: 100%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.InfoWrapper:hover {
+    background-color: #d6d5d5;
+}
+
+.ProductPager {
+    text-align: center;
+}
+
+.ProductPager li {
+    font-size: 20px;
+    display: inline-block;
+    background-color: rgb(217, 253, 241);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+.ProductPager li:hover {
+    background-color: aquamarine;
+}
+
+.ProductPager a {
+    padding: 2px 7px;
+    box-sizing: border-box;
+}
+
+.ProductPager li:active, .ProductPager a:active {
+    outline: none;
+}
+
+.ProductPager li:focus, .ProductPager a:focus {
+    outline: none;
+}
+
+.ProductPager li:first-child, .ProductPager li:last-child {
+    font-weight: bold;
+    border: none;
+    background-color: transparent;
+}
+
+.ActivePage {
+    background-color: orangered !important;
+    color: #fff !important;
+}
+
+.SelectedProduct {
+    padding-bottom: 30px;
+    overflow: hidden;
+}
+
+.SelectedProduct img {
+    max-width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+.SelectedProductHeader {
+    text-align: center;
+    margin: 10px 0 30px 0;
+    font-weight: bold;
+}
+
+.SelectedProductData p {
+    margin: 10px 0 10px 10px;
+    font-size: 20px;
+}
+
+.SelectedProductData span {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.SelectedProduct svg {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.SelectedProduct svg:hover {
+    cursor: pointer;
+    color: #000;
+}
+
+.MoreInfoBox {
+    padding-top: 30px;
+    width: 80%;
+    margin: auto;
+}
+
+.MoreInfoBox h3, .MoreInfoBox h2, .MoreInfoBox h1 {
+    font-size: 18px;
+}
+
+.MoreInfoBox h1:first-child {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.Loader {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: calc(50% - 25px);
+}
+
+@media only screen and (max-width: 1465px) {
+    .SideMenu {
+        width: 380px;
+        font-size: 14px;
+    }
+    .ProductName, .itemPrice {
+        font-size: 18px;
+    }
+    .MainIcon {
+        display: inline !important;
+    }
+    .SideMenu svg {
+        display: inline;
+    }
+    .Production {
+        width: calc(100% - 42px);
+    }
+}

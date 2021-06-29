@@ -1,0 +1,27 @@
+.Footer {
+    width: 100%;
+    padding: 100px;
+    color: #ffffff;
+    background-color: #333;
+}
+.Footer h3{
+    word-break: break-all;
+}
+.ContactList{
+    padding: 0;
+}
+.ContactList svg{
+    position: relative;
+    top:-3px;
+    margin-right: 5px;
+}
+.Footer a{
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .Footer {
+        padding: 40px;
+    }
+}

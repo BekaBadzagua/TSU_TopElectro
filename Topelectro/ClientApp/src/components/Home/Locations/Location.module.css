@@ -1,0 +1,41 @@
+.Locations {
+    padding: 80px 0 100px 0;
+    background-color: #f8f9fa;
+}
+.Loaction{
+    box-sizing: border-box;
+}
+.Loaction col {
+    vertical-align: middle;
+}
+
+.Loaction img {
+    border-radius: 20px;
+    width: 100%;
+    max-width: 400px;
+    max-height: 350px;
+}
+
+.Loaction svg {
+    margin-top: -7px;
+    margin-right: 20px;
+}
+
+.Loaction h2 {
+    margin-top: 30px;
+}
+
+.Loaction h3, .Loaction h5 {
+    margin: 20px 0;
+}
+
+@media only screen and (max-width: 770px) {
+    .Loaction h2 {
+        font-size: 20px;
+        word-wrap: break-word;
+        margin-top: 10px;
+    }
+    .Loaction h3 {
+        font-size: 18px;
+    }
+}

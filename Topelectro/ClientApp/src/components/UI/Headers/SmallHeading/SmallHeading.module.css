@@ -1,0 +1,31 @@
+
+.SmallHeading{
+    position: relative;
+    text-align: center;
+}
+
+.SmallHeading h3{
+    font-size: 28px;
+    font-weight: 700;
+    display: inline-block;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    color: #004606;
+    border-bottom: 2px solid #eb7d00;
+    margin-bottom: 50px;    
+}
+
+
+.SmallHeading h3::before,.SmallHeading h3::after{
+    content : "";
+    position: absolute;
+    top: 30px;
+    height: 15px;
+    border-left: 2px solid #eb7d00;
+}
+.SmallHeading h3::before{
+    margin-left: -10px;
+}
+.SmallHeading h3::after{
+    margin-left: 10px;
+}

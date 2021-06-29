@@ -1,0 +1,23 @@
+.Content{
+    width: calc(100% - 300px);
+    height:100vh;
+    margin-left: 300px;
+    padding: 50px 75px;
+
+    background-color: rgb(213, 226, 226);
+    overflow: scroll;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+
+
+@media (max-width: 1200px) {
+    .Content{
+        margin:0px;
+        width: 100%
+    }    
+}
+
+
+
